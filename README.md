@@ -10,6 +10,6 @@ Simply run `npx http-server` and browse.
 
 ## License
 
-Copyright (c) João Moreno. All rights reserved.
-
 Licensed under the [MIT](LICENSE.txt) license.
+
+~USA // Vyvanze
